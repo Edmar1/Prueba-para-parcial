@@ -6,3 +6,5 @@
 # - git checkout dev1
 # - git push -u origin dev1
 # - git push origin HEAD:main
+
+# - Prueba Desde Otro Computador
